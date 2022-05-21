@@ -1,0 +1,46 @@
+body * {
+    background-color: black;
+}
+.class1 h1 {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c2  {
+    color: aliceblue;
+    padding: 7px;
+}
+.class2  {
+    background-image: linear-gradient(to right, black , red);
+    color: aliceblue;
+    border-style: dotted;
+    border-color: red;
+    padding: 20px;
+    border-radius: 10px;
+}
+.c4 {
+    background-image: linear-gradient(to right, black , red);
+    color: white;
+}
+.c5 {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(211, 204, 204) , red);
+    color: white;
+    height: auto;
+}
+.class3 {
+    background-color: white;
+    padding: 15px;
+}
+#id1 {
+    text-align: center;
+}
+p {
+    background-image: linear-gradient(to right, black , red);
+}
+label {
+    background-image: linear-gradient(to right, black , red);
+    color: white; 
+}

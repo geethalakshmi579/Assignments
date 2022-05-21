@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+img {
+    width: 40%;
+    height: 40%;
+    align-self: center;
+    margin-left: 5px;
+}
+#id1{
+    width: 500px;
+    border-radius: 20px;
+    height: 35px;
+}
+button{
+    margin-top: 30px;
+    margin-left: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(248, 247, 245);
+}
+.c1{
+    display: block;
+    margin: 0 auto;
+    margin-left: 570px;
+    margin-top: 200px;
+}
