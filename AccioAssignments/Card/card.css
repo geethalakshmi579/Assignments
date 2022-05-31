@@ -1,0 +1,63 @@
+*{
+    background-color: rgb(240, 238, 236);
+}
+.container{
+    padding-left: 20px;
+}
+.card{
+    height: 450px;
+    width: 246px;
+    background-color: white;
+    box-shadow: 20px;
+    margin-top: 50px;
+}
+img{
+    width: 136px;
+    height: 230px;
+    margin: 50px;
+}
+.image{
+    background-color: azure;
+    text-align: center;
+    height: 280px;
+}
+.cost{
+    font-size: medium;
+    color: red;
+    background-color: white;
+}
+.c1{
+    font-size: small;
+    background-color: white;
+}
+.c2{
+    font-size: medium;
+    color: silver;
+    background-color: white;
+}
+.cost2{
+    font-size: 14px;
+    background-color: white;
+}
+.info{
+    margin: 10px;
+    background-color: white;
+}
+.item:hover{
+    color: yellowgreen;
+}
+label:hover{
+    color: blue;
+}
+.item{
+    background-color: white;
+}
+label{
+    background-color: white;
+}
+.col{
+    display: inline-block;
+}
+section{
+    text-align: center;
+}
